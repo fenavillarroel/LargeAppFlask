@@ -1,3 +1,4 @@
 # LargeAppFlask
 
-Ejemplo estructura App Flask
+Ejemplo estructura App Flask y Blueprints
+
